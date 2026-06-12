@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Operaciones2</title>
+    <title>Operaciones 2</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 20px; background-color: #f4f6f9; }
         .contenedor-pdf { width: 85%; height: 650px; margin: 20px auto; border: 1px solid #cbd5e1; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); background-color: #fff; border-radius: 8px; overflow: hidden; }
@@ -13,19 +13,19 @@
 </head>
 <body>
 
-    <h1>Operaciones2</h1>
+    <h1>Operaciones 2</h1>
     <p>Reforzar Conocimientos - Segundo Módulo</p>
     
     <!-- VISOR DEL SEGUNDO PDF -->
     <div class="contenedor-pdf">
-        <iframe src="Operaciones2.pdf" width="100%" height="100%" style="border: none;">
+        <iframe src="Operaciones 2.pdf" width="100%" height="100%" style="border: none;">
             Tu navegador no soporta la visualización de PDFs. 
             <a href="Operaciones2.pdf">Haz clic aquí para ver el documento.</a>
         </iframe>
     </div>
 
     <!-- BOTÓN DE DESCARGA DIRECTA -->
-    <a href="Operaciones2.pdf" download class="btn-descarga">Descargar PDF (Operaciones2)</a>
+    <a href="Operaciones 2.pdf" download class="btn-descarga">Descargar PDF (Operaciones 2)</a>
 
 </body>
 </html>
