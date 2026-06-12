@@ -1,12 +1,18 @@
-
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Operaciones 2</title>
     <style>
-        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 20px; background-color: #f4f6f9; }
-        .contenedor-pdf { width: 85%; height: 650px; margin: 20px auto; border: 1px solid #cbd5e1; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); background-color: #fff; border-radius: 8px; overflow: hidden; }
+        /* Se redujo el padding superior del body de 20px a 5px */
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 5px 20px 20px 20px; background-color: #f4f6f9; }
+        
+        /* Ajuste de márgenes en los textos superiores para compactar el bloque */
+        h1 { margin-top: 5px; margin-bottom: 5px; }
+        p { margin-top: 0; margin-bottom: 10px; }
+
+        /* Se redujo el margen superior del contenedor a 0 para pegarlo al texto */
+        .contenedor-pdf { width: 85%; height: 650px; margin: 0 auto 20px auto; border: 1px solid #cbd5e1; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); background-color: #fff; border-radius: 8px; overflow: hidden; }
         .btn-descarga { display: inline-block; margin-top: 15px; padding: 12px 24px; background-color: #dc3545; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background 0.2s; }
         .btn-descarga:hover { background-color: #bd2130; }
     </style>
